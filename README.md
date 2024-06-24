@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kunalp2308@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sWvjxO8RDhxVyIrtDjPfBwBiquQphA7W/view?usp=sharing](https://drive.google.com/file/d/1sWvjxO8RDhxVyIrtDjPfBwBiquQphA7W/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1sWvjxO8RDhxVyIrtDjPfBwBiquQphA7W/view?usp=sharing](https://drive.google.com/file/d/1TabNbOAaq7W2dLQfHTb8EBCJOBtJL8iw/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
