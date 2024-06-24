@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://kunalportfolio-12cdll9tc-kunalp2308s-projects.vercel.app/](https://kunalportfolio-12cdll9tc-kunalp2308s-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://kunalportfolio-12cdll9tc-kunalp2308s-projects.vercel.app/](https://kunal-personal-portfolio.netlify.app/)
 
 - 💬 Ask me about **MERN stack**
 
