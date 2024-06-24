@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [kunal-personal-portfolio](https://kunal-personal-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [kunal/portfolio](https://kunal-personal-portfolio.netlify.app/)
 
 - 💬 Ask me about **MERN stack**
 
