@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://kunalportfolio-12cdll9tc-kunalp2308s-projects.vercel.app/](https://kunal-personal-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [kunal-personal-portfolio](https://kunal-personal-portfolio.netlify.app/)
 
 - 💬 Ask me about **MERN stack**
 
 - 📫 How to reach me **kunalp2308@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sWvjxO8RDhxVyIrtDjPfBwBiquQphA7W/view?usp=sharing](https://drive.google.com/file/d/1G3fTnDWQvlsHpvXHysqkokeoSKtw-WUs/view?usp=sharing)
+- 📄 Know about my experiences [Kunal_cv_resume](https://drive.google.com/file/d/1G3fTnDWQvlsHpvXHysqkokeoSKtw-WUs/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
